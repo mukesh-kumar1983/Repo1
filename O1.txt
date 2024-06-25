@@ -1,6 +1,6 @@
 One
-<<<<<<< Updated upstream
+
 O1 modified by Main
-=======
+
 O1 modified by U1
->>>>>>> Stashed changes
+
